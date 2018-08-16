@@ -34,3 +34,7 @@
   transform: translateX(-50%) translateY(-50%);
   color: #eee;
 }
+
+.showcase {
+  margin: 0 0 0 320px;
+}
