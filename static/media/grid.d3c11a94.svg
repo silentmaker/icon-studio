@@ -1,0 +1,12 @@
+<svg width="48" height="48" stroke-width="1px" stroke="rgba(0, 0, 0, .1)"
+  view-box="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none">
+    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="48" height="48" rx="0"></rect>
+    <rect vector-effect="non-scaling-stroke" x="8" y="2" width="32" height="44" rx="3"></rect>
+    <rect vector-effect="non-scaling-stroke" x="5" y="5" width="38" height="38" rx="3"></rect>
+    <rect vector-effect="non-scaling-stroke" x="2" y="8" width="44" height="32" rx="3"></rect>
+    <circle vector-effect="non-scaling-stroke" cx="24" cy="24" r="10"></circle>
+    <circle vector-effect="non-scaling-stroke" cx="24" cy="24" r="22"></circle>
+    <path vector-effect="non-scaling-stroke" d="M0 48L48 0M0 0l48 48M24 48V0M17 0v48M31 0v48M48 24H0M0 31h48M0 17h48"></path>
+  </g>
+</svg>
